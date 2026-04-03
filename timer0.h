@@ -1,3 +1,10 @@
+/**
+ * @file timer0.h - file containing declarations of
+ * functions for timer0
+ * @author Aleksandar Andjelkovic
+ * @time 03-04-2026 10:20
+ */
+
 #ifndef TIMER0_H_
 #define TIMER0_H_
 

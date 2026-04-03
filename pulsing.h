@@ -1,8 +1,8 @@
-/*
- * pulsing.h
- *
- *  Created on: Apr 2, 2026
- *      Author: andjelko
+/**
+ * @file pulsing.c - file containing declarations of
+ * functions for led blink
+ * @author Aleksandar Andjelkovic
+ * @time 03-04-2026 10:20
  */
 
 #ifndef PULSING_H_

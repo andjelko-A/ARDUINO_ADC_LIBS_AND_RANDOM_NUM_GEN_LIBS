@@ -1,3 +1,10 @@
+/**
+ * @file timer0.c - file containing definitions of
+ * functions for timer0
+ * @author Aleksandar Andjelkovic
+ * @time 03-04-2026 10:20
+ */
+
 #include "timer0.h"
 #include <avr/io.h>
 
